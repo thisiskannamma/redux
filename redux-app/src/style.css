@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    margin-left: 20rem;
+}
+.main{
+    background-color:rgb(84, 75, 75);
+    border-radius: 10px;
+  }
+.container{
+  background-color:white;
+  color: white;
+  margin-left: 20rem;
+  padding: 20px;
+}
+img{
+  border-radius: 30px;
+}
